@@ -1,0 +1,30 @@
+body {
+	background-color: rgb(240, 243, 221);
+}
+
+div {
+	text-align: center;
+}
+
+b {
+    font-family: "Times New Roman", Times, serif;
+	font-size: 30px;
+}
+
+#school {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 20px;
+}
+
+#hobby {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 20px;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	color: red;
+}
